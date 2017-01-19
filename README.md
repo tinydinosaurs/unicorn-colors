@@ -10,4 +10,12 @@ I decided to make a React project with a bit of additional information about the
 
 I'll be brainstorming additional features while I'm working on the basic project, and probably for awhile afterward. I'm not trying to recreate colour lovers, coolors, or other palette-oriented web app, so I don't want to go crazy with user accounts and whatnot. But I might do things like add a color picker, which is relatively easy, and possibly an add to clipboard feature so people can easily copy pieces of color data. We'll see.
 
+## credits
+
+I borrowed from or used these resources:
+
+* [create-react-app](https://github.com/facebookincubator/create-react-app)
+* [147 colors](http://www.colors.commutercreative.com/)
+* [css-color-names](https://github.com/bahamas10/css-color-names)
+
 ❤️ 💛 💚 💙 💜
