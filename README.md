@@ -14,8 +14,8 @@ I'll be brainstorming additional features while I'm working on the basic project
 
 I borrowed from or used these resources:
 
-* [create-react-app](https://github.com/facebookincubator/create-react-app)
-* [147 colors](http://www.colors.commutercreative.com/)
-* [css-color-names](https://github.com/bahamas10/css-color-names)
+* [create-react-app](https://github.com/facebookincubator/create-react-app) best react boilerplate for small projects
+* [147 colors](http://www.colors.commutercreative.com/) the inspiration for this project
+* [TinyColor](http://bgrins.github.io/TinyColor/) my new favorite thing
 
 ❤️ 💛 💚 💙 💜
